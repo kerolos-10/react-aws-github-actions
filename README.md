@@ -11,7 +11,7 @@ This project demonstrates a modern, automated deployment pipeline that:
 - Provides zero-downtime deployments with proper error handling
 
 **🖼️ Live Demo Screenshot**
-![Preview Screenshot](Docs/browsing test.png)
+![Preview Screenshot](Docs/browsing%20test.png)
 
 
 ---
