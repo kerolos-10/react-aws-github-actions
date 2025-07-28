@@ -69,7 +69,7 @@ react-cicd-project/
 
 **🖼️ Project Structure**
 
-![Preview Screenshot](Docs/browsing%20structure.png)
+![Preview Screenshot](Docs/structure.png)
 
 
 ---
@@ -87,7 +87,7 @@ react-cicd-project/
 
 **🖼️ EC2 Dashboard**
 
-![Preview Screenshot](Docs/browsing%20aws-ec2.png)
+![Preview Screenshot](Docs/aws-ec2.png)
 
 ### 2. GitHub Secrets Configuration
 
@@ -101,7 +101,7 @@ Navigate to your repository: `Settings → Secrets and variables → Actions`
 
 **🖼️ GitHub Secrets**
 
-![Preview Screenshot](Docs/browsing%20github secrets.png)
+![Preview Screenshot](Docs/github%20secrets.png)
 
 
 ### 3. SSH Key Setup
@@ -237,7 +237,7 @@ jobs:
 
 **🖼️ GitHub Actions Running**
 
-![Preview Screenshot](Docs/browsing%20workflow success.png)
+![Preview Screenshot](Docs/workflow%20success.png)
 
 ---
 
@@ -287,7 +287,7 @@ npm run build
 
 **🖼️ Build Output**
 
-![Preview Screenshot](Docs/browsing%20build details.png)
+![Preview Screenshot](Docs/build%20details.png)
 
 ### Deployment Steps
 
@@ -300,7 +300,7 @@ npm run build
 
 **🖼️ Deployment Success**
 
-![Preview Screenshot](Docs/browsing%20deploy Summary.png)
+![Preview Screenshot](Docs/deploy%20Summary.png)
 
 ---
 
@@ -331,7 +331,7 @@ http://YOUR_EC2_PUBLIC_IP
 
 **🖼️ Live Application**
 
-![Preview Screenshot](Docs/browsing%20browsing test.png)
+![Preview Screenshot](Docs/browsing%20test.png)
 
 
 
@@ -386,8 +386,8 @@ df -h
 **⭐ If this project helped you, please give it a star!**
 ## 👨‍💻 Author
 
-**Kerolos Mamdouh**
-**- 📍 Location:** Cairo, Egypt
-**- 📧 Email:** kerolosmamdouh20@gmail.com
-**- 💼 LinkedIn:** [Connect with me](https://linkedin.com/in/kerolosmamdouh)
-**- 🐙 GitHub:** [@kerolosmamdouh](https://github.com/kerolosmamdouh)
+**Kerolos Mamdouh**  
+📍 **Location:** Cairo, Egypt  
+📧 **Email:** kerolosmamdouh20@gmail.com  
+💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/kerolosmamdouh)  
+🐙 **GitHub:** [@kerolosmamdouh](https://github.com/kerolosmamdouh)
