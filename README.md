@@ -11,6 +11,7 @@ This project demonstrates a modern, automated deployment pipeline that:
 - Provides zero-downtime deployments with proper error handling
 
 **🖼️ Live Demo Screenshot**
+
 ![Preview Screenshot](Docs/browsing%20test.png)
 
 
@@ -67,7 +68,8 @@ react-cicd-project/
 ```
 
 **🖼️ Project Structure**
-![App Architecture](Docs/structure.png)
+
+![Preview Screenshot](Docs/browsing%20structure.png)
 
 
 ---
@@ -84,8 +86,8 @@ react-cicd-project/
 ```
 
 **🖼️ EC2 Dashboard**
-![App Architecture](Docs/aws-ec2.png)
 
+![Preview Screenshot](Docs/browsing%20aws-ec2.png)
 
 ### 2. GitHub Secrets Configuration
 
@@ -98,7 +100,9 @@ Navigate to your repository: `Settings → Secrets and variables → Actions`
 | `AWS_SSH_PRIVATE_KEY` | Private Key Content | `-----BEGIN OPENSSH PRIVATE KEY-----...` |
 
 **🖼️ GitHub Secrets**
-![App Architecture](Docs/github secrets.png)
+
+![Preview Screenshot](Docs/browsing%20github secrets.png)
+
 
 ### 3. SSH Key Setup
 
@@ -232,7 +236,8 @@ jobs:
 ```
 
 **🖼️ GitHub Actions Running**
-![App Architecture](Docs/deploy Summary.png)
+
+![Preview Screenshot](Docs/browsing%20workflow success.png)
 
 ---
 
@@ -281,7 +286,8 @@ npm run build
 ```
 
 **🖼️ Build Output**
-![App Architecture](Docs/build details.png)
+
+![Preview Screenshot](Docs/browsing%20build details.png)
 
 ### Deployment Steps
 
@@ -293,7 +299,8 @@ npm run build
 6. **Verify**: Application becomes live
 
 **🖼️ Deployment Success**
-![App Architecture](Docs/deploy Summary.png)
+
+![Preview Screenshot](Docs/browsing%20deploy Summary.png)
 
 ---
 
@@ -323,7 +330,8 @@ http://YOUR_EC2_PUBLIC_IP
 ```
 
 **🖼️ Live Application**
-![App Architecture](Docs/browsing test.png)
+
+![Preview Screenshot](Docs/browsing%20browsing test.png)
 
 
 
