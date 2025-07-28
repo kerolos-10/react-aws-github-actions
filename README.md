@@ -12,6 +12,8 @@ This project demonstrates a modern, automated deployment pipeline that:
 
 **🖼️ Live Demo Screenshot**
 ![App Architecture](./Docs/browsing test.png)
+![Preview Screenshot](./Docs/browsing test.png)
+
 
 ---
 
